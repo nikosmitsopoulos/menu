@@ -1,0 +1,45 @@
+.first{
+    width: 80%;
+    background-color: burlywood;
+    margin-top: 400px;
+    margin-left: 100px;
+    padding: 200px;
+    max-width: 500px;
+}
+
+.element_01{
+    margin-right: 10px;
+}
+
+.element_02{
+    
+    margin-left: 100px;
+}
+
+ul.lists{
+    list-style-type: none;
+    
+}
+
+li {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+
+ul li{
+    width: auto;
+    display: inline;
+ 
+  }
+
+  .train{
+    position: absolute;
+    z-index: 3;
+    background-color: black;
+    width: 10px;
+    height: 450px;
+    margin-left: 1700px;
+    margin-top: 90px;
+  }
